@@ -36,7 +36,3 @@ March 14, 2020
 - Drag either circle to move it, and the distance will update automatically.
 - Use the "Clear" button to reset the canvas.
 - Use the "Quit" button to exit the program.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
